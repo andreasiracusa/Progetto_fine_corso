@@ -1,0 +1,67 @@
+product_id,supplier_id,sku,product_name,category,brand,cost_price,selling_price,stock_quantity,last_update
+1,3,SL-EL-001,Wireless Mouse,Electronics,SmartLife,9.01,19.57,57,2025-11-05
+2,3,SL-EL-002,Bluetooth Keyboard,Electronics,SmartLife,8.65,18.8,151,2025-11-14
+3,1,TN-EL-003,USB-C Hub,Electronics,TechNova,5.71,9.89,143,2025-11-07
+4,3,SL-EL-004,Smart LED Bulb,Electronics,SmartLife,30.82,60.29,114,2025-11-19
+5,2,ED-EL-005,Portable Charger,Electronics,EuroDigital,37.28,54.76,178,2025-11-14
+6,2,ED-EL-006,Bluetooth Speaker,Electronics,EuroDigital,15.75,26.88,26,2025-11-03
+7,2,ED-EL-007,Laptop Stand,Electronics,EuroDigital,8.42,19.62,206,2025-11-02
+8,3,SL-EL-008,Wireless Earbuds,Electronics,SmartLife,23.11,37.1,20,2025-11-18
+9,2,ED-EL-009,Smart Plug,Electronics,EuroDigital,38.09,77.42,147,2025-11-07
+10,3,SL-EL-010,Webcam HD,Electronics,SmartLife,7.32,15.96,20,2025-11-08
+11,4,HS-HO-011,Ceramic Table Lamp,Home,HomeStyle,19.9,37.97,41,2025-11-12
+12,4,HS-HO-012,Cotton Blanket,Home,HomeStyle,12.99,22.45,155,2025-11-21
+13,4,HS-HO-013,Storage Basket,Home,HomeStyle,26.13,44.64,97,2025-11-09
+14,4,HS-HO-014,Wall Clock,Home,HomeStyle,32.23,71.67,58,2025-11-02
+15,4,HS-HO-015,Kitchen Organizer,Home,HomeStyle,20.75,32.31,54,2025-11-21
+16,4,HS-HO-016,Scented Candle,Home,HomeStyle,20.52,47.63,36,2025-11-09
+17,4,HS-HO-017,Desk Lamp,Home,HomeStyle,14.49,29.32,191,2025-11-19
+18,4,HS-HO-018,Laundry Hamper,Home,HomeStyle,40.86,74.42,35,2025-11-17
+19,5,UF-FI-019,Yoga Mat,Fitness,UrbanFit,8.18,12.7,39,2025-11-21
+20,5,UF-FI-020,Resistance Bands,Fitness,UrbanFit,36.58,67.43,98,2025-11-13
+21,5,UF-FI-021,Water Bottle,Fitness,UrbanFit,25.93,60.75,174,2025-11-04
+22,5,UF-FI-022,Foam Roller,Fitness,UrbanFit,35.63,63.56,111,2025-11-06
+23,5,UF-FI-023,Fitness Gloves,Fitness,UrbanFit,4.63,10.71,128,2025-11-06
+24,5,UF-FI-024,Jump Rope,Fitness,UrbanFit,39.76,68.82,39,2025-11-12
+25,5,UF-FI-025,Balance Board,Fitness,UrbanFit,26.34,57.14,153,2025-11-11
+26,5,UF-FI-026,Training Towel,Fitness,UrbanFit,5.29,13.08,61,2025-11-02
+27,6,BP-BE-027,Face Cleansing Brush,Beauty,BeautyPro,40.06,92.72,187,2025-11-16
+28,6,BP-BE-028,Makeup Organizer,Beauty,BeautyPro,44.11,85.6,32,2025-11-16
+29,6,BP-BE-029,Hair Dryer Compact,Beauty,BeautyPro,15.23,35.03,54,2025-11-18
+30,6,BP-BE-030,Skincare Roller,Beauty,BeautyPro,33.37,61.36,112,2025-11-17
+31,6,BP-BE-031,Travel Cosmetic Bag,Beauty,BeautyPro,9.4,16.52,5,2025-11-19
+32,6,BP-BE-032,Nail Care Kit,Beauty,BeautyPro,28.33,41.75,58,2025-11-03
+33,6,BP-BE-033,Facial Sponge,Beauty,BeautyPro,39.32,60.01,71,2025-11-16
+34,6,BP-BE-034,Mirror LED,Beauty,BeautyPro,26.34,56.33,62,2025-11-16
+35,7,OP-OF-035,Ergonomic Notebook Stand,Office,OfficePlus,12.21,19.76,90,2025-11-14
+36,7,OP-OF-036,Desk Organizer,Office,OfficePlus,23.41,49.8,15,2025-11-13
+37,7,OP-OF-037,Wireless Presenter,Office,OfficePlus,36.92,57.65,48,2025-11-18
+38,7,OP-OF-038,Document Tray,Office,OfficePlus,10.18,17.43,63,2025-11-03
+39,7,OP-OF-039,Office Chair Cushion,Office,OfficePlus,37.22,83.13,12,2025-11-21
+40,7,OP-OF-040,Notebook Set,Office,OfficePlus,43.74,100.38,42,2025-11-14
+41,7,OP-OF-041,Monitor Riser,Office,OfficePlus,24.0,53.97,42,2025-11-13
+42,7,OP-OF-042,Cable Management Box,Office,OfficePlus,44.41,75.98,73,2025-11-14
+43,8,GL-GR-043,Bamboo Storage Box,Green Living,GreenLiving,10.77,18.98,148,2025-11-18
+44,8,GL-GR-044,Reusable Bottle,Green Living,GreenLiving,34.79,53.23,128,2025-11-17
+45,8,GL-GR-045,Eco Lunch Box,Green Living,GreenLiving,6.8,13.46,17,2025-11-20
+46,8,GL-GR-046,Compost Bin Mini,Green Living,GreenLiving,31.85,53.41,145,2025-11-08
+47,8,GL-GR-047,Bamboo Cutlery Set,Green Living,GreenLiving,29.58,55.04,66,2025-11-07
+48,8,GL-GR-048,Reusable Shopping Bag,Green Living,GreenLiving,14.17,26.58,117,2025-11-11
+49,8,GL-GR-049,Plant Pot,Green Living,GreenLiving,4.88,10.29,18,2025-11-18
+50,8,GL-GR-050,Solar Garden Light,Green Living,GreenLiving,24.99,40.2,17,2025-11-08
+51,9,KW-KI-051,Wooden Puzzle,Kids,KidsWorld,16.04,30.57,156,2025-11-21
+52,9,KW-KI-052,Educational Blocks,Kids,KidsWorld,31.55,61.99,34,2025-11-09
+53,9,KW-KI-053,Drawing Set,Kids,KidsWorld,40.53,86.34,69,2025-11-10
+54,9,KW-KI-054,Kids Backpack,Kids,KidsWorld,33.56,55.8,129,2025-11-16
+55,9,KW-KI-055,Soft Toy,Kids,KidsWorld,41.17,91.54,162,2025-11-14
+56,9,KW-KI-056,Learning Cards,Kids,KidsWorld,6.29,11.5,163,2025-11-09
+57,9,KW-KI-057,Toy Organizer,Kids,KidsWorld,34.52,68.18,143,2025-11-01
+58,9,KW-KI-058,Bedtime Lamp,Kids,KidsWorld,7.55,17.44,139,2025-11-02
+59,10,PC-PE-059,Pet Grooming Glove,Pet Care,PetCare,28.09,44.96,10,2025-11-10
+60,10,PC-PE-060,Dog Leash,Pet Care,PetCare,40.91,89.12,91,2025-11-07
+61,10,PC-PE-061,Cat Toy Set,Pet Care,PetCare,31.51,56.71,158,2025-11-05
+62,10,PC-PE-062,Pet Bowl,Pet Care,PetCare,39.52,92.52,105,2025-11-01
+63,10,PC-PE-063,Travel Pet Bottle,Pet Care,PetCare,34.33,61.03,205,2025-11-08
+64,10,PC-PE-064,Pet Blanket,Pet Care,PetCare,10.95,23.78,9,2025-11-16
+65,10,PC-PE-065,Dog Waste Bags,Pet Care,PetCare,12.58,29.63,78,2025-11-08
+66,10,PC-PE-066,Cat Scratcher,Pet Care,PetCare,5.46,9.86,71,2025-11-03

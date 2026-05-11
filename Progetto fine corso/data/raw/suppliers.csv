@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,delivery_days,reliability_score
+1,TechNova Supplies,Italy,3,4.7
+2,EuroDigital Hub,Germany,5,4.4
+3,SmartLife Wholesale,Spain,6,4.1
+4,HomeStyle Distribution,France,4,4.5
+5,UrbanFit Partners,Netherlands,7,3.9
+6,BeautyPro Trade,Italy,2,4.8
+7,OfficePlus Vendor,Germany,5,4.2
+8,GreenLiving Supply,Austria,6,4.0
+9,KidsWorld Wholesale,Spain,8,3.8
+10,PetCare Distribution,France,4,4.3
