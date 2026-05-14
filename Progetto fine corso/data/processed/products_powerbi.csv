@@ -1,0 +1,113 @@
+﻿product_id;supplier_id;sku;product_name;category;brand;cost_price;selling_price;stock_quantity;last_update;margin;margin_percentage;stock_value;stock_status
+1;1;EL-001;Wireless Mouse 1;Electronics;TechNova;6,88;9,83;25;2025-12-18;2,95;0,3001;172,0;Medium Stock
+2;1;EL-002;Wireless Mouse 2;Electronics;TechNova;55,75;102,02;12;2026-02-14;46,27;0,4535;669,0;Low Stock
+3;1;EL-003;USB-C Hub 3;Electronics;TechNova;7,38;9,67;25;2026-02-03;2,29;0,2368;184,5;Medium Stock
+4;1;EL-004;Wireless Mouse 4;Electronics;TechNova;47,09;80,78;150;2026-01-23;33,69;0,4171;7063,5;High Stock
+5;1;EL-005;Bluetooth Speaker 5;Electronics;TechNova;38,69;55,36;8;2026-03-08;16,67;0,3011;309,52;Low Stock
+6;1;EL-006;Bluetooth Speaker 6;Electronics;TechNova;57,36;84,39;18;2025-12-28;27,03;0,3203;1032,48;Low Stock
+7;1;EL-007;Smart Plug 7;Electronics;TechNova;12,67;18,97;60;2026-03-19;6,3;0,3321;760,2;Medium Stock
+8;1;EL-008;Smart Plug 8;Electronics;TechNova;50,28;89,23;120;2026-02-07;38,95;0,4365;6033,6;High Stock
+9;1;EL-009;Wireless Mouse 9;Electronics;TechNova;77,98;116,66;150;2026-01-07;38,68;0,3316;11697,0;High Stock
+10;1;EL-010;Smart Plug 10;Electronics;TechNova;48,3;82,5;8;2026-02-23;34,2;0,4145;386,4;Low Stock
+11;1;EL-011;Bluetooth Speaker 11;Electronics;TechNova;62,98;119,06;25;2026-03-21;56,08;0,471;1574,5;Medium Stock
+12;1;EL-012;Wireless Mouse 12;Electronics;TechNova;33,51;51,76;60;2025-12-21;18,25;0,3526;2010,6;Medium Stock
+13;1;EL-013;Smart Plug 13;Electronics;TechNova;31,65;53,35;12;2026-02-16;21,7;0,4067;379,8;Low Stock
+14;1;EL-014;Bluetooth Speaker 14;Electronics;TechNova;45,06;63,5;120;2026-01-18;18,44;0,2904;5407,2;High Stock
+15;4;HO-015;Wall Shelf 1;Home;HomeStyle;79,21;131,96;150;2025-12-29;52,75;0,3997;11881,5;High Stock
+16;4;HO-016;Wall Shelf 2;Home;HomeStyle;68,21;119,67;25;2026-03-16;51,46;0,43;1705,25;Medium Stock
+17;4;HO-017;Storage Box 3;Home;HomeStyle;65,38;98,77;12;2025-12-28;33,39;0,3381;784,56;Low Stock
+18;4;HO-018;Wall Shelf 4;Home;HomeStyle;20,95;32,99;120;2025-12-19;12,04;0,365;2514,0;High Stock
+19;4;HO-019;Wall Shelf 5;Home;HomeStyle;15,47;26,83;150;2026-01-03;11,36;0,4234;2320,5;High Stock
+20;4;HO-020;Air Humidifier 6;Home;HomeStyle;72,34;109,21;25;2025-12-18;36,87;0,3376;1808,5;Medium Stock
+21;4;HO-021;Air Humidifier 7;Home;HomeStyle;11,82;15,14;12;2025-12-20;3,32;0,2193;141,84;Low Stock
+22;4;HO-022;Desk Lamp 8;Home;HomeStyle;64,41;98,19;12;2026-01-19;33,78;0,344;772,92;Low Stock
+23;4;HO-023;Air Humidifier 9;Home;HomeStyle;49,69;77,23;40;2026-02-09;27,54;0,3566;1987,6;Medium Stock
+24;4;HO-024;Storage Box 10;Home;HomeStyle;56,02;74,2;150;2026-03-07;18,18;0,245;8403,0;High Stock
+25;4;HO-025;Wall Shelf 11;Home;HomeStyle;62,64;92,15;40;2026-01-25;29,51;0,3202;2505,6;Medium Stock
+26;4;HO-026;Desk Lamp 12;Home;HomeStyle;39,03;72,99;40;2026-02-03;33,96;0,4653;1561,2;Medium Stock
+27;4;HO-027;Desk Lamp 13;Home;HomeStyle;43,08;56,83;40;2026-03-18;13,75;0,2419;1723,2;Medium Stock
+28;4;HO-028;Desk Lamp 14;Home;HomeStyle;16,46;28,73;150;2026-03-10;12,27;0,4271;2469,0;High Stock
+29;5;FI-029;Yoga Mat 1;Fitness;UrbanFit;49,92;78,25;12;2026-03-29;28,33;0,362;599,04;Low Stock
+30;5;FI-030;Foam Roller 2;Fitness;UrbanFit;70,9;126,95;40;2025-12-31;56,05;0,4415;2836,0;Medium Stock
+31;5;FI-031;Yoga Mat 3;Fitness;UrbanFit;23,07;37,35;12;2025-12-11;14,28;0,3823;276,84;Low Stock
+32;5;FI-032;Jump Rope 4;Fitness;UrbanFit;66,2;124,83;150;2026-03-09;58,63;0,4697;9930,0;High Stock
+33;5;FI-033;Resistance Band 5;Fitness;UrbanFit;14,63;22,81;150;2025-12-22;8,18;0,3586;2194,5;High Stock
+34;5;FI-034;Foam Roller 6;Fitness;UrbanFit;44,58;73,3;25;2026-03-29;28,72;0,3918;1114,5;Medium Stock
+35;5;FI-035;Resistance Band 7;Fitness;UrbanFit;58,47;88,25;60;2026-01-26;29,78;0,3375;3508,2;Medium Stock
+36;5;FI-036;Jump Rope 8;Fitness;UrbanFit;14,08;19,66;60;2025-12-03;5,58;0,2838;844,8;Medium Stock
+37;5;FI-037;Resistance Band 9;Fitness;UrbanFit;49,13;61,64;8;2025-12-30;12,51;0,203;393,04;Low Stock
+38;5;FI-038;Yoga Mat 10;Fitness;UrbanFit;72,91;131,88;12;2026-02-04;58,97;0,4471;874,92;Low Stock
+39;5;FI-039;Resistance Band 11;Fitness;UrbanFit;25,89;40,53;150;2025-12-17;14,64;0,3612;3883,5;High Stock
+40;5;FI-040;Jump Rope 12;Fitness;UrbanFit;23,22;36,16;90;2025-12-25;12,94;0,3579;2089,8;High Stock
+41;5;FI-041;Yoga Mat 13;Fitness;UrbanFit;12,27;18,78;90;2026-01-22;6,51;0,3466;1104,3;High Stock
+42;5;FI-042;Jump Rope 14;Fitness;UrbanFit;69,79;89,69;12;2025-12-08;19,9;0,2219;837,48;Low Stock
+43;6;BE-043;Makeup Mirror 1;Beauty;BeautyPro;59,62;105,55;12;2026-01-01;45,93;0,4351;715,44;Low Stock
+44;6;BE-044;Hair Dryer 2;Beauty;BeautyPro;19,27;29,71;90;2025-12-24;10,44;0,3514;1734,3;High Stock
+45;6;BE-045;Body Lotion 3;Beauty;BeautyPro;39,7;72,19;12;2026-01-26;32,49;0,4501;476,4;Low Stock
+46;6;BE-046;Face Cleanser 4;Beauty;BeautyPro;8,79;16,7;8;2025-12-12;7,91;0,4737;70,32;Low Stock
+47;6;BE-047;Hair Dryer 5;Beauty;BeautyPro;17,47;27,35;25;2026-03-21;9,88;0,3612;436,75;Medium Stock
+48;6;BE-048;Makeup Mirror 6;Beauty;BeautyPro;72,68;98,63;8;2026-01-19;25,95;0,2631;581,44;Low Stock
+49;6;BE-049;Body Lotion 7;Beauty;BeautyPro;74,49;131,13;40;2026-01-24;56,64;0,4319;2979,6;Medium Stock
+50;6;BE-050;Makeup Mirror 8;Beauty;BeautyPro;16,61;23,97;8;2026-02-13;7,36;0,3071;132,88;Low Stock
+51;6;BE-051;Face Cleanser 9;Beauty;BeautyPro;61,1;78,65;120;2026-02-03;17,55;0,2231;7332,0;High Stock
+52;6;BE-052;Hair Dryer 10;Beauty;BeautyPro;9,27;14,65;18;2025-12-09;5,38;0,3672;166,86;Low Stock
+53;6;BE-053;Face Cleanser 11;Beauty;BeautyPro;55,64;78,06;12;2026-03-31;22,42;0,2872;667,68;Low Stock
+54;6;BE-054;Hair Dryer 12;Beauty;BeautyPro;48,42;61,78;12;2026-01-23;13,36;0,2163;581,04;Low Stock
+55;6;BE-055;Body Lotion 13;Beauty;BeautyPro;75,1;103,85;60;2025-12-31;28,75;0,2768;4506,0;Medium Stock
+56;6;BE-056;Body Lotion 14;Beauty;BeautyPro;34,68;58,49;40;2026-01-28;23,81;0,4071;1387,2;Medium Stock
+57;7;OF-057;Monitor Stand 1;Office;OfficePlus;74,68;138,77;8;2026-01-28;64,09;0,4618;597,44;Low Stock
+58;7;OF-058;Notebook Set 2;Office;OfficePlus;10,49;14,57;40;2025-12-17;4,08;0,28;419,6;Medium Stock
+59;7;OF-059;Monitor Stand 3;Office;OfficePlus;71,06;129,44;60;2026-01-06;58,38;0,451;4263,6;Medium Stock
+60;7;OF-060;Desk Organizer 4;Office;OfficePlus;37,86;60,69;40;2026-02-17;22,83;0,3762;1514,4;Medium Stock
+61;7;OF-061;Notebook Set 5;Office;OfficePlus;55,09;88,72;12;2026-03-31;33,63;0,3791;661,08;Low Stock
+62;7;OF-062;Desk Organizer 6;Office;OfficePlus;24,83;45,4;150;2025-12-20;20,57;0,4531;3724,5;High Stock
+63;7;OF-063;Monitor Stand 7;Office;OfficePlus;26,13;36,24;60;2025-12-27;10,11;0,279;1567,8;Medium Stock
+64;7;OF-064;Monitor Stand 8;Office;OfficePlus;42,91;60,64;8;2025-12-12;17,73;0,2924;343,28;Low Stock
+65;7;OF-065;Pen Kit 9;Office;OfficePlus;67,2;85,93;60;2026-03-09;18,73;0,218;4032,0;Medium Stock
+66;7;OF-066;Desk Organizer 10;Office;OfficePlus;52,78;74,96;120;2026-02-09;22,18;0,2959;6333,6;High Stock
+67;7;OF-067;Pen Kit 11;Office;OfficePlus;47,07;62,26;18;2026-02-08;15,19;0,244;847,26;Low Stock
+68;7;OF-068;Notebook Set 12;Office;OfficePlus;67,59;110,08;18;2026-01-25;42,49;0,386;1216,62;Low Stock
+69;7;OF-069;Desk Organizer 13;Office;OfficePlus;8,14;12,1;8;2026-03-26;3,96;0,3273;65,12;Low Stock
+70;7;OF-070;Monitor Stand 14;Office;OfficePlus;20,76;29,32;12;2026-01-15;8,56;0,292;249,12;Low Stock
+71;8;GR-071;Bamboo Cutlery 1;Green Living;EcoTrend;78,04;135,57;25;2026-03-21;57,53;0,4244;1951,0;Medium Stock
+72;8;GR-072;Lunch Box 2;Green Living;EcoTrend;78,22;139,0;90;2025-12-04;60,78;0,4373;7039,8;High Stock
+73;8;GR-073;Lunch Box 3;Green Living;EcoTrend;60,24;88,31;90;2026-03-13;28,07;0,3179;5421,6;High Stock
+74;8;GR-074;Lunch Box 4;Green Living;EcoTrend;25,01;44,06;12;2026-01-18;19,05;0,4324;300,12;Low Stock
+75;8;GR-075;Reusable Bottle 5;Green Living;EcoTrend;69,39;96,77;120;2026-01-14;27,38;0,2829;8326,8;High Stock
+76;8;GR-076;Compost Bin 6;Green Living;EcoTrend;66,54;120,86;25;2025-12-04;54,32;0,4494;1663,5;Medium Stock
+77;8;GR-077;Lunch Box 7;Green Living;EcoTrend;34,88;49,92;12;2026-03-09;15,04;0,3013;418,56;Low Stock
+78;8;GR-078;Compost Bin 8;Green Living;EcoTrend;31,34;49,55;150;2026-01-12;18,21;0,3675;4701,0;High Stock
+79;8;GR-079;Reusable Bottle 9;Green Living;EcoTrend;13,65;25,67;18;2026-02-13;12,02;0,4683;245,7;Low Stock
+80;8;GR-080;Compost Bin 10;Green Living;EcoTrend;7,87;12,89;60;2026-03-04;5,02;0,3894;472,2;Medium Stock
+81;8;GR-081;Compost Bin 11;Green Living;EcoTrend;37,73;71,3;12;2026-01-19;33,57;0,4708;452,76;Low Stock
+82;8;GR-082;Lunch Box 12;Green Living;EcoTrend;24,1;41,23;8;2026-02-05;17,13;0,4155;192,8;Low Stock
+83;8;GR-083;Lunch Box 13;Green Living;EcoTrend;32,32;41,87;60;2026-02-18;9,55;0,2281;1939,2;Medium Stock
+84;8;GR-084;Compost Bin 14;Green Living;EcoTrend;54,75;72,87;40;2026-02-03;18,12;0,2487;2190,0;Medium Stock
+85;9;KI-085;Night Light 1;Kids;KidsWorld;55,02;80,44;40;2026-02-09;25,42;0,316;2200,8;Medium Stock
+86;9;KI-086;Drawing Kit 2;Kids;KidsWorld;19,39;32,62;90;2026-02-25;13,23;0,4056;1745,1;High Stock
+87;9;KI-087;Drawing Kit 3;Kids;KidsWorld;51,16;73,96;150;2026-03-17;22,8;0,3083;7674,0;High Stock
+88;9;KI-088;Puzzle Set 4;Kids;KidsWorld;27,79;38,53;60;2026-01-29;10,74;0,2787;1667,4;Medium Stock
+89;9;KI-089;Toy Basket 5;Kids;KidsWorld;38,16;53,0;120;2026-03-12;14,84;0,28;4579,2;High Stock
+90;9;KI-090;Drawing Kit 6;Kids;KidsWorld;54,41;78,05;60;2025-12-12;23,64;0,3029;3264,6;Medium Stock
+91;9;KI-091;Drawing Kit 7;Kids;KidsWorld;55,46;77,42;25;2025-12-19;21,96;0,2836;1386,5;Medium Stock
+92;9;KI-092;Puzzle Set 8;Kids;KidsWorld;8,47;16,0;12;2026-01-28;7,53;0,4706;101,64;Low Stock
+93;9;KI-093;Toy Basket 9;Kids;KidsWorld;71,46;116,06;90;2026-02-02;44,6;0,3843;6431,4;High Stock
+94;9;KI-094;Toy Basket 10;Kids;KidsWorld;23,3;39,06;8;2026-03-25;15,76;0,4035;186,4;Low Stock
+95;9;KI-095;Puzzle Set 11;Kids;KidsWorld;63,38;88,24;150;2026-01-29;24,86;0,2817;9507,0;High Stock
+96;9;KI-096;Puzzle Set 12;Kids;KidsWorld;46,81;86,43;12;2026-01-28;39,62;0,4584;561,72;Low Stock
+97;9;KI-097;Drawing Kit 13;Kids;KidsWorld;65,11;109,64;150;2026-02-15;44,53;0,4061;9766,5;High Stock
+98;9;KI-098;Night Light 14;Kids;KidsWorld;76,25;139,49;150;2026-01-24;63,24;0,4534;11437,5;High Stock
+99;10;PE-099;Dog Leash 1;Pet Care;PetCare;72,29;125,31;120;2026-01-27;53,02;0,4231;8674,8;High Stock
+100;10;PE-100;Cat Toy 2;Pet Care;PetCare;61,38;110,23;40;2026-03-09;48,85;0,4432;2455,2;Medium Stock
+101;10;PE-101;Dog Leash 3;Pet Care;PetCare;52,01;74,3;12;2026-03-02;22,29;0,3;624,12;Low Stock
+102;10;PE-102;Cat Toy 4;Pet Care;PetCare;22,59;33,17;150;2025-12-11;10,58;0,319;3388,5;High Stock
+103;10;PE-103;Pet Brush 5;Pet Care;PetCare;16,31;24,45;18;2026-03-01;8,14;0,3329;293,58;Low Stock
+104;10;PE-104;Pet Brush 6;Pet Care;PetCare;9,82;14,88;150;2026-01-29;5,06;0,3401;1473,0;High Stock
+105;10;PE-105;Dog Leash 7;Pet Care;PetCare;9,67;17,32;90;2026-03-26;7,65;0,4417;870,3;High Stock
+106;10;PE-106;Pet Bowl 8;Pet Care;PetCare;69,25;121,02;90;2026-01-31;51,77;0,4278;6232,5;High Stock
+107;10;PE-107;Pet Bowl 9;Pet Care;PetCare;75,71;109,33;90;2026-03-20;33,62;0,3075;6813,9;High Stock
+108;10;PE-108;Dog Leash 10;Pet Care;PetCare;45,37;78,38;25;2026-02-01;33,01;0,4212;1134,25;Medium Stock
+109;10;PE-109;Pet Brush 11;Pet Care;PetCare;25,47;39,88;90;2026-01-13;14,41;0,3613;2292,3;High Stock
+110;10;PE-110;Dog Leash 12;Pet Care;PetCare;59,31;106,54;18;2026-02-18;47,23;0,4433;1067,58;Low Stock
+111;10;PE-111;Pet Bowl 13;Pet Care;PetCare;73,02;119,37;8;2025-12-11;46,35;0,3883;584,16;Low Stock
+112;10;PE-112;Dog Leash 14;Pet Care;PetCare;15,18;23,53;8;2026-01-03;8,35;0,3549;121,44;Low Stock
