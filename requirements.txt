@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+sqlalchemy
+jupyter
+notebook
+ipykernel
+
+
+bash
+pip install -r requirements.txt
