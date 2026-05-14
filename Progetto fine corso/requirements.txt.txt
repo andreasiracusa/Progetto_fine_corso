@@ -1,7 +1,0 @@
-pandas
-numpy
-matplotlib
-sqlalchemy
-jupyter
-notebook
-ipykernel
